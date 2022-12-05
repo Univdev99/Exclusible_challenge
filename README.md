@@ -7,7 +7,7 @@ https://docs.google.com/document/d/1u0GMh_t9PxDUF1ui0YES90tt4y5E0GB4iP6-bbzyPaE/
 
 `yarn install`
 
-https://github.com/Univdev99/Exclusible_challenge/contracts/ETHPool.sol
+https://github.com/Univdev99/Exclusible_challenge/blob/main/contracts/ETHPool.sol
 
 ### Compile contract
 
@@ -36,5 +36,5 @@ https://goerli.etherscan.io/address/0xcB319f6f164B5563a8F5EDd076A8184E41Ca5d06#c
 ## 4) Interact with the contract
 
 ### Took a hardhat test with ethers.js
-https://github.com/Univdev99/Exclusible_challenge/test/ETHPool.js
+https://github.com/Univdev99/Exclusible_challenge/blob/main/test/ETHPool.js
 
